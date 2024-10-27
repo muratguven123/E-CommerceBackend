@@ -48,3 +48,13 @@
 | GET    | `/User/{userId}`  | N/A                                      | `{ "userId": "int", "username": "string", "email": "string" }` | Retrieves a user by ID |
 | PUT    | `/User/{userId}`  | `{ "username": "string", "email": "string", "password": "string" }` | `{ "userId": "int", "username": "string", "email": "string" }` | Updates a user's details |
 | DELETE | `/User/{userId}`  | N/A                                      | `{ "message": "string" }`              | Deletes a user         |
+
+
+
+
+
+
+![java](https://github.com/user-attachments/assets/49128c5d-8c88-473f-8240-3e1a818c34b8)
+
+
+
